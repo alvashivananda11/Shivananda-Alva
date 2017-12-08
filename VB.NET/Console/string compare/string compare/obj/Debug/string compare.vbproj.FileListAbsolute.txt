@@ -1,0 +1,11 @@
+D:\Programs\VB.NET\My Codes\string compare\string compare\bin\Debug\string compare.exe.config
+D:\Programs\VB.NET\My Codes\string compare\string compare\bin\Debug\string compare.exe
+D:\Programs\VB.NET\My Codes\string compare\string compare\bin\Debug\string compare.pdb
+D:\Programs\VB.NET\My Codes\string compare\string compare\bin\Debug\string compare.xml
+D:\Programs\VB.NET\My Codes\string compare\string compare\obj\Debug\string compare.vbprojResolveAssemblyReference.cache
+D:\Programs\VB.NET\My Codes\string compare\string compare\obj\Debug\string_compare.Resources.resources
+D:\Programs\VB.NET\My Codes\string compare\string compare\obj\Debug\string compare.vbproj.GenerateResource.Cache
+D:\Programs\VB.NET\My Codes\string compare\string compare\obj\Debug\string compare.vbproj.CoreCompileInputs.cache
+D:\Programs\VB.NET\My Codes\string compare\string compare\obj\Debug\string compare.exe
+D:\Programs\VB.NET\My Codes\string compare\string compare\obj\Debug\string compare.xml
+D:\Programs\VB.NET\My Codes\string compare\string compare\obj\Debug\string compare.pdb

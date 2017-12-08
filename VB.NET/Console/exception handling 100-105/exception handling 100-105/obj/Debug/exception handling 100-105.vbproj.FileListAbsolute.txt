@@ -1,0 +1,11 @@
+D:\Programs\VB.NET\My Codes\exception handling 100-105\exception handling 100-105\obj\Debug\exception handling 100-105.vbprojResolveAssemblyReference.cache
+D:\Programs\VB.NET\My Codes\exception handling 100-105\exception handling 100-105\obj\Debug\exception_handling_100_105.Resources.resources
+D:\Programs\VB.NET\My Codes\exception handling 100-105\exception handling 100-105\obj\Debug\exception handling 100-105.vbproj.GenerateResource.Cache
+D:\Programs\VB.NET\My Codes\exception handling 100-105\exception handling 100-105\obj\Debug\exception handling 100-105.vbproj.CoreCompileInputs.cache
+D:\Programs\VB.NET\My Codes\exception handling 100-105\exception handling 100-105\bin\Debug\exception handling 100-105.exe.config
+D:\Programs\VB.NET\My Codes\exception handling 100-105\exception handling 100-105\bin\Debug\exception handling 100-105.exe
+D:\Programs\VB.NET\My Codes\exception handling 100-105\exception handling 100-105\bin\Debug\exception handling 100-105.pdb
+D:\Programs\VB.NET\My Codes\exception handling 100-105\exception handling 100-105\bin\Debug\exception handling 100-105.xml
+D:\Programs\VB.NET\My Codes\exception handling 100-105\exception handling 100-105\obj\Debug\exception handling 100-105.exe
+D:\Programs\VB.NET\My Codes\exception handling 100-105\exception handling 100-105\obj\Debug\exception handling 100-105.xml
+D:\Programs\VB.NET\My Codes\exception handling 100-105\exception handling 100-105\obj\Debug\exception handling 100-105.pdb

@@ -1,0 +1,12 @@
+D:\Programs\VB.NET\My Codes\GUI\Addition\Addition\bin\Debug\Addition.exe.config
+D:\Programs\VB.NET\My Codes\GUI\Addition\Addition\bin\Debug\Addition.exe
+D:\Programs\VB.NET\My Codes\GUI\Addition\Addition\bin\Debug\Addition.pdb
+D:\Programs\VB.NET\My Codes\GUI\Addition\Addition\bin\Debug\Addition.xml
+D:\Programs\VB.NET\My Codes\GUI\Addition\Addition\obj\Debug\Addition.vbprojResolveAssemblyReference.cache
+D:\Programs\VB.NET\My Codes\GUI\Addition\Addition\obj\Debug\Addition.Addition.resources
+D:\Programs\VB.NET\My Codes\GUI\Addition\Addition\obj\Debug\Addition.Resources.resources
+D:\Programs\VB.NET\My Codes\GUI\Addition\Addition\obj\Debug\Addition.vbproj.GenerateResource.Cache
+D:\Programs\VB.NET\My Codes\GUI\Addition\Addition\obj\Debug\Addition.vbproj.CoreCompileInputs.cache
+D:\Programs\VB.NET\My Codes\GUI\Addition\Addition\obj\Debug\Addition.exe
+D:\Programs\VB.NET\My Codes\GUI\Addition\Addition\obj\Debug\Addition.xml
+D:\Programs\VB.NET\My Codes\GUI\Addition\Addition\obj\Debug\Addition.pdb

@@ -1,0 +1,12 @@
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 1 Code\Question 1 Code\obj\Debug\Question 1 Code.vbprojResolveAssemblyReference.cache
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 1 Code\Question 1 Code\obj\Debug\Question_1_Code.Form1.resources
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 1 Code\Question 1 Code\obj\Debug\Question_1_Code.Resources.resources
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 1 Code\Question 1 Code\obj\Debug\Question 1 Code.vbproj.GenerateResource.Cache
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 1 Code\Question 1 Code\obj\Debug\Question 1 Code.vbproj.CoreCompileInputs.cache
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 1 Code\Question 1 Code\bin\Debug\Question 1 Code.exe.config
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 1 Code\Question 1 Code\bin\Debug\Question 1 Code.exe
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 1 Code\Question 1 Code\bin\Debug\Question 1 Code.pdb
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 1 Code\Question 1 Code\bin\Debug\Question 1 Code.xml
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 1 Code\Question 1 Code\obj\Debug\Question 1 Code.exe
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 1 Code\Question 1 Code\obj\Debug\Question 1 Code.xml
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 1 Code\Question 1 Code\obj\Debug\Question 1 Code.pdb

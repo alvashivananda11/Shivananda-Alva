@@ -1,0 +1,14 @@
+D:\Programs\VB.NET\My Codes\GUI\Login\Login\obj\Debug\Login.Form1.resources
+D:\Programs\VB.NET\My Codes\GUI\Login\Login\obj\Debug\Login.Form2.resources
+D:\Programs\VB.NET\My Codes\GUI\Login\Login\obj\Debug\Login.Form3.resources
+D:\Programs\VB.NET\My Codes\GUI\Login\Login\obj\Debug\Login.Resources.resources
+D:\Programs\VB.NET\My Codes\GUI\Login\Login\obj\Debug\Login.vbproj.GenerateResource.Cache
+D:\Programs\VB.NET\My Codes\GUI\Login\Login\obj\Debug\Login.vbproj.CoreCompileInputs.cache
+D:\Programs\VB.NET\My Codes\GUI\Login\Login\bin\Debug\Login.exe.config
+D:\Programs\VB.NET\My Codes\GUI\Login\Login\bin\Debug\Login.exe
+D:\Programs\VB.NET\My Codes\GUI\Login\Login\bin\Debug\Login.pdb
+D:\Programs\VB.NET\My Codes\GUI\Login\Login\bin\Debug\Login.xml
+D:\Programs\VB.NET\My Codes\GUI\Login\Login\obj\Debug\Login.exe
+D:\Programs\VB.NET\My Codes\GUI\Login\Login\obj\Debug\Login.xml
+D:\Programs\VB.NET\My Codes\GUI\Login\Login\obj\Debug\Login.pdb
+D:\Programs\VB.NET\My Codes\GUI\Login\Login\obj\Debug\Login.vbprojResolveAssemblyReference.cache

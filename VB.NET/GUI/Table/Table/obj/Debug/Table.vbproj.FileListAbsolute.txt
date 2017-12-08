@@ -1,0 +1,12 @@
+C:\Users\Shivananda\Desktop\Table\Table\bin\Debug\Table.exe.config
+C:\Users\Shivananda\Desktop\Table\Table\bin\Debug\Table.exe
+C:\Users\Shivananda\Desktop\Table\Table\bin\Debug\Table.pdb
+C:\Users\Shivananda\Desktop\Table\Table\bin\Debug\Table.xml
+C:\Users\Shivananda\Desktop\Table\Table\obj\Debug\Table.vbprojResolveAssemblyReference.cache
+C:\Users\Shivananda\Desktop\Table\Table\obj\Debug\Table.Form1.resources
+C:\Users\Shivananda\Desktop\Table\Table\obj\Debug\Table.Resources.resources
+C:\Users\Shivananda\Desktop\Table\Table\obj\Debug\Table.vbproj.GenerateResource.Cache
+C:\Users\Shivananda\Desktop\Table\Table\obj\Debug\Table.vbproj.CoreCompileInputs.cache
+C:\Users\Shivananda\Desktop\Table\Table\obj\Debug\Table.exe
+C:\Users\Shivananda\Desktop\Table\Table\obj\Debug\Table.xml
+C:\Users\Shivananda\Desktop\Table\Table\obj\Debug\Table.pdb

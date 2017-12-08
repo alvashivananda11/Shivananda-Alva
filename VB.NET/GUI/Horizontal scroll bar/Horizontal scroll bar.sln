@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Horizontal scroll bar", "Horizontal scroll bar\Horizontal scroll bar.vbproj", "{B4A8D180-23A9-439D-B10F-62BE3597CE73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4A8D180-23A9-439D-B10F-62BE3597CE73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A8D180-23A9-439D-B10F-62BE3597CE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A8D180-23A9-439D-B10F-62BE3597CE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A8D180-23A9-439D-B10F-62BE3597CE73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9782B8DE-FCFD-4851-9A5D-E54B4DC40F51}
+	EndGlobalSection
+EndGlobal

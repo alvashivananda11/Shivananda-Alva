@@ -1,0 +1,21 @@
+D:\Programs\VB.NET\My Codes\string reverse\string reverse\obj\Debug\string_reverse.Resources.resources
+D:\Programs\VB.NET\My Codes\string reverse\string reverse\obj\Debug\string reverse.vbproj.GenerateResource.Cache
+D:\Programs\VB.NET\My Codes\string reverse\string reverse\obj\Debug\string reverse.vbproj.CoreCompileInputs.cache
+D:\Programs\VB.NET\My Codes\string reverse\string reverse\bin\Debug\string reverse.exe.config
+D:\Programs\VB.NET\My Codes\string reverse\string reverse\bin\Debug\string reverse.exe
+D:\Programs\VB.NET\My Codes\string reverse\string reverse\bin\Debug\string reverse.pdb
+D:\Programs\VB.NET\My Codes\string reverse\string reverse\bin\Debug\string reverse.xml
+D:\Programs\VB.NET\My Codes\string reverse\string reverse\obj\Debug\string reverse.exe
+D:\Programs\VB.NET\My Codes\string reverse\string reverse\obj\Debug\string reverse.xml
+D:\Programs\VB.NET\My Codes\string reverse\string reverse\obj\Debug\string reverse.pdb
+D:\Programs\VB.NET\My Codes\Console\string reverse\string reverse\bin\Debug\string reverse.exe.config
+D:\Programs\VB.NET\My Codes\Console\string reverse\string reverse\bin\Debug\string reverse.exe
+D:\Programs\VB.NET\My Codes\Console\string reverse\string reverse\bin\Debug\string reverse.pdb
+D:\Programs\VB.NET\My Codes\Console\string reverse\string reverse\bin\Debug\string reverse.xml
+D:\Programs\VB.NET\My Codes\Console\string reverse\string reverse\obj\Debug\string reverse.vbprojResolveAssemblyReference.cache
+D:\Programs\VB.NET\My Codes\Console\string reverse\string reverse\obj\Debug\string_reverse.Resources.resources
+D:\Programs\VB.NET\My Codes\Console\string reverse\string reverse\obj\Debug\string reverse.vbproj.GenerateResource.Cache
+D:\Programs\VB.NET\My Codes\Console\string reverse\string reverse\obj\Debug\string reverse.vbproj.CoreCompileInputs.cache
+D:\Programs\VB.NET\My Codes\Console\string reverse\string reverse\obj\Debug\string reverse.exe
+D:\Programs\VB.NET\My Codes\Console\string reverse\string reverse\obj\Debug\string reverse.xml
+D:\Programs\VB.NET\My Codes\Console\string reverse\string reverse\obj\Debug\string reverse.pdb

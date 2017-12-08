@@ -1,0 +1,12 @@
+D:\Programs\VB.NET\My Codes\GUI\background color\background color\bin\Debug\background color.exe.config
+D:\Programs\VB.NET\My Codes\GUI\background color\background color\bin\Debug\background color.exe
+D:\Programs\VB.NET\My Codes\GUI\background color\background color\bin\Debug\background color.pdb
+D:\Programs\VB.NET\My Codes\GUI\background color\background color\bin\Debug\background color.xml
+D:\Programs\VB.NET\My Codes\GUI\background color\background color\obj\Debug\background color.vbprojResolveAssemblyReference.cache
+D:\Programs\VB.NET\My Codes\GUI\background color\background color\obj\Debug\background_color.Form1.resources
+D:\Programs\VB.NET\My Codes\GUI\background color\background color\obj\Debug\background_color.Resources.resources
+D:\Programs\VB.NET\My Codes\GUI\background color\background color\obj\Debug\background color.vbproj.GenerateResource.Cache
+D:\Programs\VB.NET\My Codes\GUI\background color\background color\obj\Debug\background color.vbproj.CoreCompileInputs.cache
+D:\Programs\VB.NET\My Codes\GUI\background color\background color\obj\Debug\background color.exe
+D:\Programs\VB.NET\My Codes\GUI\background color\background color\obj\Debug\background color.xml
+D:\Programs\VB.NET\My Codes\GUI\background color\background color\obj\Debug\background color.pdb

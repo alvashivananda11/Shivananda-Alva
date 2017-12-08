@@ -1,0 +1,11 @@
+D:\Programs\VB.NET\My Codes\pattern3\pattern3\bin\Debug\pattern3.exe.config
+D:\Programs\VB.NET\My Codes\pattern3\pattern3\bin\Debug\pattern3.exe
+D:\Programs\VB.NET\My Codes\pattern3\pattern3\bin\Debug\pattern3.pdb
+D:\Programs\VB.NET\My Codes\pattern3\pattern3\bin\Debug\pattern3.xml
+D:\Programs\VB.NET\My Codes\pattern3\pattern3\obj\Debug\pattern3.vbprojResolveAssemblyReference.cache
+D:\Programs\VB.NET\My Codes\pattern3\pattern3\obj\Debug\pattern3.Resources.resources
+D:\Programs\VB.NET\My Codes\pattern3\pattern3\obj\Debug\pattern3.vbproj.GenerateResource.Cache
+D:\Programs\VB.NET\My Codes\pattern3\pattern3\obj\Debug\pattern3.vbproj.CoreCompileInputs.cache
+D:\Programs\VB.NET\My Codes\pattern3\pattern3\obj\Debug\pattern3.exe
+D:\Programs\VB.NET\My Codes\pattern3\pattern3\obj\Debug\pattern3.xml
+D:\Programs\VB.NET\My Codes\pattern3\pattern3\obj\Debug\pattern3.pdb

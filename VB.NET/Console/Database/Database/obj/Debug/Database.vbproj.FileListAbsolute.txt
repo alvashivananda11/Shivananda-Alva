@@ -1,0 +1,11 @@
+D:\Programs\VB.NET\My Codes\Console\Database\Database\obj\Debug\Database.vbprojResolveAssemblyReference.cache
+D:\Programs\VB.NET\My Codes\Console\Database\Database\obj\Debug\Database.Resources.resources
+D:\Programs\VB.NET\My Codes\Console\Database\Database\obj\Debug\Database.vbproj.GenerateResource.Cache
+D:\Programs\VB.NET\My Codes\Console\Database\Database\obj\Debug\Database.vbproj.CoreCompileInputs.cache
+D:\Programs\VB.NET\My Codes\Console\Database\Database\bin\Debug\Database.exe.config
+D:\Programs\VB.NET\My Codes\Console\Database\Database\bin\Debug\Database.exe
+D:\Programs\VB.NET\My Codes\Console\Database\Database\bin\Debug\Database.pdb
+D:\Programs\VB.NET\My Codes\Console\Database\Database\bin\Debug\Database.xml
+D:\Programs\VB.NET\My Codes\Console\Database\Database\obj\Debug\Database.exe
+D:\Programs\VB.NET\My Codes\Console\Database\Database\obj\Debug\Database.xml
+D:\Programs\VB.NET\My Codes\Console\Database\Database\obj\Debug\Database.pdb

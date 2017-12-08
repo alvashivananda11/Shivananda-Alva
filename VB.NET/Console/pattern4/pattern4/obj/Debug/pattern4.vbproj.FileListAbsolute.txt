@@ -1,0 +1,10 @@
+D:\Programs\VB.NET\My Codes\pattern4\pattern4\obj\Debug\pattern4.Resources.resources
+D:\Programs\VB.NET\My Codes\pattern4\pattern4\obj\Debug\pattern4.vbproj.GenerateResource.Cache
+D:\Programs\VB.NET\My Codes\pattern4\pattern4\obj\Debug\pattern4.vbproj.CoreCompileInputs.cache
+D:\Programs\VB.NET\My Codes\pattern4\pattern4\bin\Debug\pattern4.exe.config
+D:\Programs\VB.NET\My Codes\pattern4\pattern4\bin\Debug\pattern4.exe
+D:\Programs\VB.NET\My Codes\pattern4\pattern4\bin\Debug\pattern4.pdb
+D:\Programs\VB.NET\My Codes\pattern4\pattern4\bin\Debug\pattern4.xml
+D:\Programs\VB.NET\My Codes\pattern4\pattern4\obj\Debug\pattern4.exe
+D:\Programs\VB.NET\My Codes\pattern4\pattern4\obj\Debug\pattern4.xml
+D:\Programs\VB.NET\My Codes\pattern4\pattern4\obj\Debug\pattern4.pdb

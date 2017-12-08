@@ -1,0 +1,24 @@
+C:\Users\Shivananda\Desktop\Student Registration\Student Registration\bin\Debug\Student Registration.exe.config
+C:\Users\Shivananda\Desktop\Student Registration\Student Registration\bin\Debug\Student Registration.exe
+C:\Users\Shivananda\Desktop\Student Registration\Student Registration\bin\Debug\Student Registration.pdb
+C:\Users\Shivananda\Desktop\Student Registration\Student Registration\bin\Debug\Student Registration.xml
+C:\Users\Shivananda\Desktop\Student Registration\Student Registration\obj\Debug\Student Registration.vbprojResolveAssemblyReference.cache
+C:\Users\Shivananda\Desktop\Student Registration\Student Registration\obj\Debug\Student_Registration.Form1.resources
+C:\Users\Shivananda\Desktop\Student Registration\Student Registration\obj\Debug\Student_Registration.Resources.resources
+C:\Users\Shivananda\Desktop\Student Registration\Student Registration\obj\Debug\Student Registration.vbproj.GenerateResource.Cache
+C:\Users\Shivananda\Desktop\Student Registration\Student Registration\obj\Debug\Student Registration.vbproj.CoreCompileInputs.cache
+C:\Users\Shivananda\Desktop\Student Registration\Student Registration\obj\Debug\Student Registration.exe
+C:\Users\Shivananda\Desktop\Student Registration\Student Registration\obj\Debug\Student Registration.xml
+C:\Users\Shivananda\Desktop\Student Registration\Student Registration\obj\Debug\Student Registration.pdb
+D:\Programs\VB.NET\My Codes\GUI\Student Registration\Student Registration\bin\Debug\Student Registration.exe.config
+D:\Programs\VB.NET\My Codes\GUI\Student Registration\Student Registration\bin\Debug\Student Registration.exe
+D:\Programs\VB.NET\My Codes\GUI\Student Registration\Student Registration\bin\Debug\Student Registration.pdb
+D:\Programs\VB.NET\My Codes\GUI\Student Registration\Student Registration\bin\Debug\Student Registration.xml
+D:\Programs\VB.NET\My Codes\GUI\Student Registration\Student Registration\obj\Debug\Student Registration.vbprojResolveAssemblyReference.cache
+D:\Programs\VB.NET\My Codes\GUI\Student Registration\Student Registration\obj\Debug\Student_Registration.Form1.resources
+D:\Programs\VB.NET\My Codes\GUI\Student Registration\Student Registration\obj\Debug\Student_Registration.Resources.resources
+D:\Programs\VB.NET\My Codes\GUI\Student Registration\Student Registration\obj\Debug\Student Registration.vbproj.GenerateResource.Cache
+D:\Programs\VB.NET\My Codes\GUI\Student Registration\Student Registration\obj\Debug\Student Registration.vbproj.CoreCompileInputs.cache
+D:\Programs\VB.NET\My Codes\GUI\Student Registration\Student Registration\obj\Debug\Student Registration.exe
+D:\Programs\VB.NET\My Codes\GUI\Student Registration\Student Registration\obj\Debug\Student Registration.xml
+D:\Programs\VB.NET\My Codes\GUI\Student Registration\Student Registration\obj\Debug\Student Registration.pdb

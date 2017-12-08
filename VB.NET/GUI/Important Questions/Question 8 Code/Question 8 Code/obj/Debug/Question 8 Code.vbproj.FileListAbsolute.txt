@@ -1,0 +1,15 @@
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 8 Code\Question 8 Code\obj\Debug\Question_8_Code.Form1.resources
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 8 Code\Question 8 Code\obj\Debug\Question_8_Code.Resources.resources
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 8 Code\Question 8 Code\obj\Debug\Question 8 Code.vbproj.GenerateResource.Cache
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 8 Code\Question 8 Code\obj\Debug\Question 8 Code.vbproj.CoreCompileInputs.cache
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 8 Code\Question 8 Code\bin\Debug\Question 8 Code.exe.config
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 8 Code\Question 8 Code\bin\Debug\Question 8 Code.exe
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 8 Code\Question 8 Code\bin\Debug\Question 8 Code.pdb
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 8 Code\Question 8 Code\bin\Debug\Question 8 Code.xml
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 8 Code\Question 8 Code\obj\Debug\Question 8 Code.exe
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 8 Code\Question 8 Code\obj\Debug\Question 8 Code.xml
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 8 Code\Question 8 Code\obj\Debug\Question 8 Code.pdb
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 8 Code\Question 8 Code\obj\Debug\Question_8_Code.areaofcircle.resources
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 8 Code\Question 8 Code\obj\Debug\Question_8_Code.areaoftriangle.resources
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 8 Code\Question 8 Code\obj\Debug\Question_8_Code.Result.resources
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 8 Code\Question 8 Code\obj\Debug\Question_8_Code.volumeofcube.resources

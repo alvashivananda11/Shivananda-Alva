@@ -1,0 +1,11 @@
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 6 Code\Question 6 Code\bin\Debug\Question 6 Code.exe.config
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 6 Code\Question 6 Code\bin\Debug\Question 6 Code.exe
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 6 Code\Question 6 Code\bin\Debug\Question 6 Code.pdb
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 6 Code\Question 6 Code\bin\Debug\Question 6 Code.xml
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 6 Code\Question 6 Code\obj\Debug\Question_6_Code.form1.resources
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 6 Code\Question 6 Code\obj\Debug\Question_6_Code.Resources.resources
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 6 Code\Question 6 Code\obj\Debug\Question 6 Code.vbproj.GenerateResource.Cache
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 6 Code\Question 6 Code\obj\Debug\Question 6 Code.vbproj.CoreCompileInputs.cache
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 6 Code\Question 6 Code\obj\Debug\Question 6 Code.exe
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 6 Code\Question 6 Code\obj\Debug\Question 6 Code.xml
+D:\Programs\VB.NET\My Codes\GUI\Important Questions\Question 6 Code\Question 6 Code\obj\Debug\Question 6 Code.pdb

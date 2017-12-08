@@ -1,0 +1,81 @@
+#include<iostream>
+using namespace std;
+class emp_info
+{
+public:
+int num,age,mnum,bsal;
+char name[20];
+void getdata();
+void dispdata();
+};
+void emp_info :: getdata()
+    {
+      cout<<"\n   Enter employee number: " ;
+      cin>>num;
+      cout<<"      Enter employee name: " ;
+      cin>>name;
+      cout<<"\n enter employee age:";
+      cin>>age;
+      cout<<"\n enter employee mobile number:";
+      cin>>mnum;
+       cout<<"\n Enter employee basic salary in Rs: " ;
+      cin>>bsal;
+    }
+
+
+void emp_info ::dispdata()
+    {
+
+           cout<<"\n      Employee number: "<<num;
+           cout<<"\n        Employee name: "<<name;
+           cout<<"\n employee age:"<<age;
+           cout<<"\n employee mobile number:"<<mnum;
+           cout<<"\n employee base salary:"<<bsal;
+    }
+class emp_earn : public emp_info
+{
+
+public:
+float da,gsal,it;
+void g_sal();
+void dispdata1();
+};
+
+
+
+void emp_earn :: g_sal()
+    {
+      da=((0.52)*bsal );
+       gsal=da+bsal;
+      it=((0.3)*gsal);
+    }
+void emp_earn :: dispdata1()
+    {
+        cout<<"\nemployee gross salary:"<<gsal;
+    }
+class emp_salary : public emp_earn
+{
+public:
+int nsal;
+void net_sal();
+void display();
+};
+void emp_salary :: net_sal()
+{
+    nsal=gsal-it;
+}
+void emp_salary :: display()
+{
+    cout<<"Employee net salary:"<<nsal;
+}
+int main()
+{
+emp_salary e;
+e.getdata();
+e.dispdata();
+e.g_sal();
+e.dispdata1();
+e.net_sal();
+e.display();
+return 0;
+}

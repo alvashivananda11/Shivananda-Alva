@@ -1,0 +1,11 @@
+D:\Programs\VB.NET\My Codes\inheritance\inheritance\bin\Debug\inheritance.exe.config
+D:\Programs\VB.NET\My Codes\inheritance\inheritance\bin\Debug\inheritance.exe
+D:\Programs\VB.NET\My Codes\inheritance\inheritance\bin\Debug\inheritance.pdb
+D:\Programs\VB.NET\My Codes\inheritance\inheritance\bin\Debug\inheritance.xml
+D:\Programs\VB.NET\My Codes\inheritance\inheritance\obj\Debug\inheritance.vbprojResolveAssemblyReference.cache
+D:\Programs\VB.NET\My Codes\inheritance\inheritance\obj\Debug\inheritance.Resources.resources
+D:\Programs\VB.NET\My Codes\inheritance\inheritance\obj\Debug\inheritance.vbproj.GenerateResource.Cache
+D:\Programs\VB.NET\My Codes\inheritance\inheritance\obj\Debug\inheritance.vbproj.CoreCompileInputs.cache
+D:\Programs\VB.NET\My Codes\inheritance\inheritance\obj\Debug\inheritance.exe
+D:\Programs\VB.NET\My Codes\inheritance\inheritance\obj\Debug\inheritance.xml
+D:\Programs\VB.NET\My Codes\inheritance\inheritance\obj\Debug\inheritance.pdb

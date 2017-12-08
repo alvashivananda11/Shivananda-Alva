@@ -1,0 +1,11 @@
+D:\Programs\VB.NET\My Codes\add,sub,mul,div\add,sub,mul,div\obj\Debug\add,sub,mul,div.vbprojResolveAssemblyReference.cache
+D:\Programs\VB.NET\My Codes\add,sub,mul,div\add,sub,mul,div\obj\Debug\add_sub_mul_div.Resources.resources
+D:\Programs\VB.NET\My Codes\add,sub,mul,div\add,sub,mul,div\obj\Debug\add,sub,mul,div.vbproj.GenerateResource.Cache
+D:\Programs\VB.NET\My Codes\add,sub,mul,div\add,sub,mul,div\obj\Debug\add,sub,mul,div.vbproj.CoreCompileInputs.cache
+D:\Programs\VB.NET\My Codes\add,sub,mul,div\add,sub,mul,div\bin\Debug\add,sub,mul,div.exe.config
+D:\Programs\VB.NET\My Codes\add,sub,mul,div\add,sub,mul,div\bin\Debug\add,sub,mul,div.exe
+D:\Programs\VB.NET\My Codes\add,sub,mul,div\add,sub,mul,div\bin\Debug\add,sub,mul,div.pdb
+D:\Programs\VB.NET\My Codes\add,sub,mul,div\add,sub,mul,div\bin\Debug\add,sub,mul,div.xml
+D:\Programs\VB.NET\My Codes\add,sub,mul,div\add,sub,mul,div\obj\Debug\add,sub,mul,div.exe
+D:\Programs\VB.NET\My Codes\add,sub,mul,div\add,sub,mul,div\obj\Debug\add,sub,mul,div.xml
+D:\Programs\VB.NET\My Codes\add,sub,mul,div\add,sub,mul,div\obj\Debug\add,sub,mul,div.pdb

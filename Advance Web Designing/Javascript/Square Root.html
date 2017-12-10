@@ -1,0 +1,32 @@
+<html>
+<head>
+  <script>
+  function mySqrt()
+  {
+    var count, flag=0;
+    var num = document.getElementById("t1").value;
+
+    for(count=1; count<=num; count++)
+    {
+      if(num == count * count)
+      {
+        flag = 1;
+        break;
+      }
+    }
+
+    if(flag == 1)
+      alert("Square root of " + num + " is " + count);
+    else
+	    alert("Cannot find square root of this number");
+  }
+
+  </script>
+</head>
+<body>
+  <form>
+    Enter a number: <input type="text" id="t1">&nbsp;
+    <input type="button" id="b1" value="Get Square Root" onClick="mySqrt()">
+  </form>
+</body>
+</html>

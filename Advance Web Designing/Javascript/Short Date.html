@@ -1,0 +1,13 @@
+<html>
+<body>
+  <script>
+    var full_date = new Date();
+    var date = full_date.getDate();
+    var month = full_date.getMonth();
+    var year = full_date.getYear().toString().substr(1,2);
+    var new_date;
+    new_date = date + "/" + month + "/" + year;
+    document.write(new_date);
+  </script>
+</body>
+</html>

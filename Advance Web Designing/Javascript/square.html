@@ -1,0 +1,16 @@
+<html>
+<body>
+<input type="text" id="abc" placeholder="enter any number">
+<input type="submit" value="check" onclick="square()">
+<input type="text" id="def" >
+<script>
+function square()
+{
+var s;
+var i=document.getElementById("abc").value;
+s=parseInt(i)*parseInt(i);
+document.getElementById("def").value=s;
+}
+</script>
+</body>
+</html>

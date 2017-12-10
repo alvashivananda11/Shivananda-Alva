@@ -1,0 +1,43 @@
+<html>
+<head>
+<title>Event</title>
+<script>
+	function key_up()
+	{
+		var msg = document.getElementById("t1").value;
+		document.getElementById("p1").innerHTML = msg;
+	}
+	function key_press()
+	{
+		var msg = document.getElementById("t2").value;
+		document.getElementById("p2").innerHTML = msg;
+	}
+	function key_down()
+	{
+		var msg = document.getElementById("t3").value;
+		document.getElementById("p3").innerHTML = msg;
+	}
+	function on_change()
+	{
+		var msg = document.getElementById("t4").value;
+		document.getElementById("p4").innerHTML = msg;
+	}
+</script>
+</head>
+<body>
+	On Key Up: <input type="text" id="t1" onkeyup="key_up()">
+	<span id="p1">Hi On Key Up example</span>
+		<br>
+		<br>
+	On Key Press: <input type="text" id="t2" onkeypress="key_press()">
+	<span id="p2">Hi On Key Press example</span>
+		<br>
+		<br>
+	On Key Down: <input type="text" id="t3" onkeydown="key_down()">
+	<span id="p3">Hi On Key Down example</span>
+			<br>
+			<br>
+	On Change: <input type="text" id="t4" onchange="on_change()">
+	<span id="p4">Hi On Change example</span>
+</body>
+</html>

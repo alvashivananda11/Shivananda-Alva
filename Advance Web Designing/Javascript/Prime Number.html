@@ -1,0 +1,40 @@
+<html>
+<head>
+  <script>
+    function prime()
+    {
+      var i, j, num, count, flag;
+
+      i = parseInt(document.getElementById("start").value);
+      j = parseInt(document.getElementById("end").value);
+
+      for(num = i; num <= j; num++)
+      {
+        flag = 0;
+
+        for(count = 2; count <= num/2; count++)
+        {
+          if(num % count == 0)
+            flag = 0;
+          else
+            flag = 1;
+            break;
+        }
+
+        if (flag == 1)
+        {
+          document.write(num + "<br />");
+        }
+      }
+    }
+  </script>
+</head>
+
+<body>
+  <form>
+    <input type = "text" id="start" />
+    <input type = "text" id="end" />
+    <input type = "button" value = "OK" onclick="prime()"/>
+  </form>
+</body>
+</html>

@@ -1,0 +1,45 @@
+<html> 
+<head>
+<script>
+function multiplyBy()  
+{  
+num1 = document.getElementById("firstNumber").value;  
+num2 = document.getElementById("secondNumber").value;  
+document.getElementById("result").innerHTML = num1 * num2;  
+}  
+  
+function divideBy()   
+{   
+num1 = document.getElementById("firstNumber").value;  
+num2 = document.getElementById("secondNumber").value;  
+document.getElementById("result").innerHTML = num1 / num2;  
+} 
+function additionBy()   
+{  
+var sum;
+num1 = document.getElementById("firstNumber").value;  
+num2 = document.getElementById("secondNumber").value; 
+document.getElementById("result").innerHTML = parseInt(num1) + parseInt(num2);
+} 
+function subtractBy()   
+{   
+num1 = document.getElementById("firstNumber").value;  
+num2 = document.getElementById("secondNumber").value;  
+document.getElementById("result").innerHTML = num1 - num2;  
+}    
+</script>
+</head>
+<body>
+<form>
+1st Number : <input type="text" id="firstNumber" /><br>
+2nd Number: <input type="text" id="secondNuck="multiplyBy()" Value="Multiply"/>
+<input type="button" onClick="dividember" /><br>
+<input type="button" onCliBy()" Value="Divide"/>
+<input type="button" onClick="additionBy()" Value="Addition"/>
+<input type="button" onClick="subtractBy()" Value="Subtraction"/>
+</form>
+<p>The Result is : <br>
+<span id = "result"></span>
+</p>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<html>
+<body>
+  <script>
+    var id, pass, flag;
+    id=prompt("Enter ID");
+    pass=prompt("Enter Password");
+    flag=0;
+    do
+    {
+        if(id != "1234" && pass != "5678")
+        {
+          alert("Invalid");
+          id=prompt("Enter ID");
+          pass=prompt("Enter Password");
+          flag=0;
+        }
+        else
+        {
+          alert("Login Successful");
+          flag=1;
+        }
+    } while (flag=0);
+  </script>
+</body>
+</html>

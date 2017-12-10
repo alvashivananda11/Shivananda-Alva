@@ -1,0 +1,23 @@
+<html>
+	<body>
+		<script>
+		var n1, n2, n3, smaller, smallest;
+
+		n1 = parseInt(prompt("Enter the first number"));
+		n2 = parseInt(prompt("Enter the second number"));
+		n3 = parseInt(prompt("Enter the third number"));
+
+		if (n1 < n2)
+			smaller = n1;
+		else
+			smaller = n2;
+
+		if(smaller < n3)
+			smallest  = smaller;
+		else
+			smallest = n3;
+
+		alert(smallest + " is smallest number");
+		</script>
+	</body>
+</html>

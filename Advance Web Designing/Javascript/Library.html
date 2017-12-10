@@ -1,0 +1,18 @@
+﻿<html>
+	<body>
+		<script>
+		var day;
+		
+		day = parseInt(prompt("Enter the number of days the member is late to return the book"));
+		
+		if(day <= 5)
+			alert("Fine is ₹ 0.5");
+		else if(day >=6 && day <=10)
+			alert("Fine is ₹ 1");
+		else if(day >10 && day <= 30)
+			alert("Fine is ₹ 5");
+		else
+			alert("Your membership is cancelled");
+		</script>
+	</body>
+</html>

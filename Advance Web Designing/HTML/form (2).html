@@ -1,0 +1,52 @@
+<html>
+<head>
+<title> BCA </title>
+</head>
+<body background="d:\shivu.jpg" height="20%" width="20%">
+<Marquee DIRECTION=RIGHT>BCA</MARQUEE>
+<form>
+<fieldset>
+<legend><b> Feedback Form</b></legend>
+<p><font color=red> First Name: 
+<input type="text" name="name1"></P>
+<p> Last Name:
+<input type="text" name="name2"></p>
+<p> Birthday:
+<select name="Day">
+	<option selected>Day</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+  </select>
+  <select>
+  <option selected>Month</option>
+    <option value="1">Jan</option>
+    <option value="2">Feb</option>
+    <option value="3">March</option>
+    <option value="4">April</option>
+  </select>
+  <select name="year">
+  <option value="">Year</option>
+<script>
+for(var i=1996;i<=2017;i++)
+	document.write("<option value='" + i + "'>" + i +"</option>");
+</script>  
+  </select><BR>
+  <P> Gender:<BR>
+  <input type=radio NAME=GENDER VAULE=MALE>Male<BR>
+  <input type=radio NAME=GENDER VAULE=FEMALE>Female
+  <br>
+  <P>Email:
+<input type="text" name="MAIL"></p>
+  <p>Comment:</p>
+<textarea name="message" rows="10" cols="50"></textarea>
+  <br> <br>
+<input type="submit" name="send">
+<input type="reset" name=reset>
+<button type="button" onclick="alert('Hello World!')">Click Me!</button>
+</fieldset>
+</form>
+</body>
+</html>
+

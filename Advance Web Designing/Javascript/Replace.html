@@ -1,0 +1,23 @@
+<html>
+<head>
+  <script>
+  function replace()
+  {
+    var txt = document.getElementById('txtbox').value;
+    var length = txt.length;
+    var i;
+    for(i=0; i<length; i++)
+    {
+      txt = txt.replace("m","a");
+    }
+    alert(txt);
+  }
+  </script>
+</head>
+<body>
+  <form>
+    <input type="text" id="txtbox" />
+    <input type="button" onclick="replace()" value="Replace"/>
+  </form>
+</body>
+</html>

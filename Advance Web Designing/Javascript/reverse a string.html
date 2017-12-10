@@ -1,0 +1,23 @@
+<html>
+<head>
+<script>	
+	function reverseString( str )
+{
+		str = str.split(''); 
+		str = str.reverse();
+		str = str.join('');
+		return str;
+	}
+	function doReverse()
+	{
+		var str = document.getElementById( 'mystring' ).value;
+		document.write( "" + reverseString( str ) );
+	}
+</script>
+</head>
+<body>
+	<h3>Reverse a String in JavaScript</a></h3>
+	<input type="text" id="mystring" value="spider" />
+	<button id="btn" onClick="doReverse()" >Reverse</button>
+</body>
+</html>

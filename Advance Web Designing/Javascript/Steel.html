@@ -1,0 +1,24 @@
+<html>
+	<body>
+		<script>
+		var hard, co, ten_str;
+		
+		hard = prompt("Enter the hardness of steel");
+		co = prompt("Enter the carbon content of steel");
+		ten_str = prompt("Enter the tensile strength of steel");
+		
+		if(hard > 50 && co < 0.7 && ten_str > 5600)
+			alert("Grade is 10");
+		else if(hard > 50 && co < 0.7)
+			alert("Grade is 9");
+		else if(co < 0.7 && ten_str > 5600)
+			alert("Grade is 8");
+		else if(hard > 50 && ten_str > 5600)
+			alert("Grade is 7");
+		else if(hard > 50 || co < 0.7 || ten_str > 5600)
+			alert("Grade is 6");
+		else if (hard < 50 && co > 0.7 && ten_str < 5600)
+			alert("Grade is 5");
+		</script>
+	</body>
+</html>
